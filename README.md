@@ -1,3 +1,3 @@
 # Removing-Bias-from-ML-Models
 
-# Vicente Ramos
+In this project, I dissected and analyzed two datasets from the University of California Irvine Machine Learning Repository, specifically from the Social Sciences category, which often contains significant bias within certain population groups. When exploring data to uncover hidden patterns and insights, bias and ethical considerations are frequently overlooked, as they complicate the analysis and may yield different results. Despite this reluctance, addressing bias and ethics is crucial, as both academic and industry researchers are increasingly recognizing the importance of fairness in Artificial Intelligence.
